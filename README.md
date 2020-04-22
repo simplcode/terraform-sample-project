@@ -1,8 +1,8 @@
 # aws-xxservice
 Legarcy Terraform Project for xxservice
 >- Terraform Registry가 서비스 되기 전 작성된 프로젝트로 사용된 모듈들은 직접 작성함.
->- 코드에 사용된 domain, secret등은 익명화 함.
->- Github action, Terraform cloud 연동 등을 사용하지 않는 코드로 더이상 사용하지 않음.
+>- 코드에 사용된 domain, secret등은 익명화.
+>- Packer, Github action, Terraform cloud 등을 사용하지 않는 코드(참고용).
 
 ### Domain
 - Root domain: xxservice.com 
