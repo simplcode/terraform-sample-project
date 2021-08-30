@@ -3,7 +3,7 @@ Terraform Project for xxservice
 >- Terraform v.09.x
 >- Terraform Registry가 서비스 되기 전 작성된 프로젝트로 사용된 모듈들은 직접 작성함.
 >- 코드에 사용된 domain, secret등은 익명화.
->- Packer, Github action, Terraform cloud 등을 사용하지 않는 코드(참고용).
+>- Packer, Github action, Terraform cloud 등 제거.
 
 ### Domain
 - Root domain: xxservice.com 
